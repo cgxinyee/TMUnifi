@@ -619,7 +619,7 @@ body
     border-bottom: 1px solid #ddd;	
     margin: 70px 0px;
     margin-bottom: 0px;      
-    padding: 50px 0px;  
+    padding: 100px 0px;  
 }
 
 
@@ -685,23 +685,26 @@ body
 /* Price Table CSS */
 
 .pricing-box {
-    background: #f8f8f8;
+    background: #f77b08;
     text-align: center;
+    justify-items: center;
 }
 
 .pricing-box-price {
     position: relative;
-    padding: 20px 0 7px 0;
+    padding: 2px 0 0px 0;
     background: #eee;
     font-size: 42px;
     color: #555;
     line-height: 54px;
+    justify-items: center;
 }
 
 .pricing-box-price span {
-    font-size: 18px;
+    font-size: 20px;
     color: #888;
     line-height: 32px;
+    justify-items: center;
 }
 
 .pricing-box-price strong
@@ -712,16 +715,16 @@ body
 .pricing-box h3 {
     margin-top: 0;
     margin-bottom: 0;
-    padding: 10px 20px;
+    padding: 0px 2px;
     background: #eee;
-    color: #888;
+    color: #fa0202;
 }
 
 .pricing-box h4 {
     margin-top: 0;
     margin-bottom: 2px;
     padding: 10px 20px;
-    background: #e8e8e8;
+    background: #9e7e7e;
     font-size: 16px;
     line-height: 30px;
     font-weight: 300;
@@ -731,15 +734,25 @@ body
 .pricing-box-features ul {
     margin: 0;
     padding: 0;
+
     list-style: none;
+    color: #ffffff
 }
 
 .pricing-box-features li {
     padding: 7px 20px;
-    border-bottom: 1px solid #eee;
+    border-bottom: 1px solid #e9e9e9;
     font-size: 16px;
     line-height: 30px;
     font-weight: 300;
+}
+
+.pricing-box-features li span{
+    font-size: 20px;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
 }
 
 .btn-link-1 {
@@ -748,7 +761,7 @@ body
     height: 50px;
     margin: 0 5px;
     padding: 16px 20px 0 20px;
-    background: #f77b08;
+    background: #ff4f0a;
     font-size: 16px;
     font-weight: 300;
     line-height: 16px;
@@ -763,23 +776,32 @@ body
 }
 
 .pricing-box-best .pricing-box-price {
-    background: #f77b08;
-    color: #fff;
+    background: #e9e9e9;
+    color:  #f77b08;
+    font-size: 25px;
 }
 
 .pricing-box-best .pricing-box-price span {
-    color: #fff;
+    color: rgb(1, 10, 129);
+    font-size: 25px;
+
 }
 
 .pricing-box-best h3 {
-    background: #f77b08;
-    color: #fff;
+    background: #e9e9e9;
+    color: rgb(0, 0, 0);
+    font-size:40px;
 }
 
 .pricing-box-best h4 {
-    background: #f77b08;
-    color: #fff;
+    background: #e9e9e9;
+    color: #000000;
+    font-size: 16px;
+    font-weight: 600;
+    line-height: 16px;
+
 }
+
 
 /* Call Action */
 .call-action-bg
