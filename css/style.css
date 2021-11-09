@@ -30,7 +30,7 @@ body
     display: inline-block;
     width: 160px;
     height: 2px;
-    background-color: #65CD00;
+    background-color: #f77b08;
 }
 
 /* Header CSS */
@@ -38,7 +38,8 @@ body
 .header-div
 {
 	height: 550px;
-    background-color: #65cd00;
+    background-color: #f77b08;
+    background-image:url(../images/.jpg) ;
 }
 
 .logo-div a
@@ -102,7 +103,7 @@ body
 {
 	font-size: 35px;
     font-weight: 300;
-    color: #65CD00;
+    color: #f77b08;
 }
 
 .features-div h4
@@ -146,7 +147,7 @@ body
     width: 60px;
     height: 60px;
     padding-top: 6px;
-    background: #65CD00;
+    background: #f77b08;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
@@ -267,7 +268,7 @@ body
     height: 50px;
     margin: 0 5px;
     padding: 16px 20px 0 20px;
-    background: #61C103;
+    background: #f77b08;
     font-size: 16px;
     font-weight: 300;
     line-height: 16px;
@@ -282,7 +283,7 @@ body
 }
 
 .pricing-box-best .pricing-box-price {
-    background: #65CD00;
+    background: #f77b08;
     color: #fff;
 }
 
@@ -291,12 +292,12 @@ body
 }
 
 .pricing-box-best h3 {
-    background: #65CD00;
+    background: #f77b08;
     color: #fff;
 }
 
 .pricing-box-best h4 {
-    background: #61C103;
+    background: #f77b08;
     color: #fff;
 }
 
@@ -314,7 +315,7 @@ body
 }
 
 .call-action-color {
-    background-color: #61C103;
+    background-color: #f77b08;
     margin: 60px 0px;
     text-align: center;
     padding-bottom: 50px;
@@ -516,7 +517,7 @@ body
     display: inline-block;
     width: 160px;
     height: 2px;
-    background-color: #65CD00;
+    background-color: #f77b08;
 }
 
 /* Header CSS */
@@ -524,7 +525,7 @@ body
 .header-div
 {
 	height: 550px;
-    background-color: #65cd00;
+    background-color: #f77b08;
 }
 
 .logo-div a
@@ -588,7 +589,7 @@ body
 {
 	font-size: 35px;
     font-weight: 300;
-    color: #65CD00;
+    color: #f77b08;
 }
 
 .features-div h4
@@ -627,7 +628,7 @@ body
     width: 60px;
     height: 60px;
     padding-top: 6px;
-    background: #65CD00;
+    background: #f77b08;
     -moz-border-radius: 50%;
     -webkit-border-radius: 50%;
     border-radius: 50%;
@@ -747,7 +748,7 @@ body
     height: 50px;
     margin: 0 5px;
     padding: 16px 20px 0 20px;
-    background: #61C103;
+    background: #f77b08;
     font-size: 16px;
     font-weight: 300;
     line-height: 16px;
@@ -762,7 +763,7 @@ body
 }
 
 .pricing-box-best .pricing-box-price {
-    background: #65CD00;
+    background: #f77b08;
     color: #fff;
 }
 
@@ -771,12 +772,12 @@ body
 }
 
 .pricing-box-best h3 {
-    background: #65CD00;
+    background: #f77b08;
     color: #fff;
 }
 
 .pricing-box-best h4 {
-    background: #61C103;
+    background: #f77b08;
     color: #fff;
 }
 
@@ -794,7 +795,7 @@ body
 }
 
 .call-action-color {
-    background-color: #61C103;
+    background-color: #f77b08;
     margin: 60px 0px;
     text-align: center;
     padding-bottom: 50px;
